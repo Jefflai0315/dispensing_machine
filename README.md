@@ -6,3 +6,5 @@ Files included:
 3. led.ino - arduino code for controlling leds.
 4. load_cell_callibration.ino - arduino code for callibrating load cell
 5. interface.py - Streamlit application to interact with rpi4
+
+<img src="/assets/img/powder_dispensing_machine.png" alt="Powder dispensing machine" style="height: 100px; width:100px;"/>
