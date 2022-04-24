@@ -7,4 +7,4 @@ Files included:
 4. load_cell_callibration.ino - arduino code for callibrating load cell
 5. interface.py - Streamlit application to interact with rpi4
 
-<img src="/assets/img/powder_dispensing_machine.jpg" alt="Powder dispensing machine" />
+<img src="/assets/img/powder_dispensing_machine.jpg" alt="Powder dispensing machine" style="height: 350px; width:450px;"/>
